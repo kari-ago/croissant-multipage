@@ -1,0 +1,19 @@
+body{
+    background: #E2D4C7;
+}
+
+h1 {
+    color: #9F5B36;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #9F5B36;
+    color: white;
+    margin-top: 10px;
+}
+
+.title-center {
+    text-align: center;
+}
